@@ -2,3 +2,5 @@
 /install
 /opencv
 /opencv_contrib
+
+.DS_Store
