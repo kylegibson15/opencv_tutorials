@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(ImgBAndC)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(ImgBAndC ImgBAndC.cpp)
+target_link_libraries(ImgBAndC ${OpenCV_LIBS})

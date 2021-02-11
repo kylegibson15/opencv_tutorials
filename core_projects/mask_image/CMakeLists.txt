@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(MaskImage)
+find_package(OpenCV REQUIRED)
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( MaskImage MaskImage.cpp )
+target_link_libraries( MaskImage ${OpenCV_LIBS} )

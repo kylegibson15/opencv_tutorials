@@ -1,0 +1,3 @@
+/Users/kylegibson/Personal_Projects/C++/OpenCV_Proj/projects/brightness_and_contrast/build/CMakeFiles/rebuild_cache.dir
+/Users/kylegibson/Personal_Projects/C++/OpenCV_Proj/projects/brightness_and_contrast/build/CMakeFiles/edit_cache.dir
+/Users/kylegibson/Personal_Projects/C++/OpenCV_Proj/projects/brightness_and_contrast/build/CMakeFiles/ImgBAndC.dir
